@@ -1,6 +1,4 @@
 
-
-```markdown
 # Quantum Markov Chains for Modeling Risk Propagation in Multi-Echelon Supply Chains
 
 This repository contains the research paper, simulation code, and visualization assets for a novel framework that applies **Quantum Markov Chains (QMCs)** to model **risk propagation**, **inventory transitions**, and **uncertainty dynamics** in complex supply chain networks.
@@ -45,8 +43,6 @@ quantum-supplychain-qmc/
 | `README.md` | You’re reading it |
 | `LICENSE` | Open-source license (MIT recommended) |
 
----
-
 ## 🔧 Technologies Used
 
 - Python 3.x
@@ -63,15 +59,9 @@ quantum-supplychain-qmc/
 
 If you use this work, please cite:
 
-```
+
 
 Prasad Sonar (2025). Quantum Markov Chains for Modeling Risk Propagation in Multi-Echelon Supply Chains. SSRN. [https://ssrn.com/abstract/XXXXXXXX](https://ssrn.com/abstract/XXXXXXXX)
-
-```
-
-> Replace the SSRN URL with the live paper link after publication.
-
----
 
 ## 📬 Author
 
@@ -80,7 +70,7 @@ Independent Researcher, India
 📧 prasad.sonar12@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/prasadsonar) *(optional)*
 
----
+
 
 ## 📜 License
 
