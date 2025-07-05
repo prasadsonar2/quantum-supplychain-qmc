@@ -68,8 +68,7 @@ Prasad Sonar (2025). Quantum Markov Chains for Modeling Risk Propagation in Mult
 **Prasad Sonar**  
 Independent Researcher, India  
 prasad.sonar12@gmail.com  
-[LinkedIn](www.linkedin.com/in/
-prasad-s-04a2a7167)
+[LinkedIn](www.linkedin.com/in/prasad-s-04a2a7167)
 
 
 
